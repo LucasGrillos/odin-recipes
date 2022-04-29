@@ -41,6 +41,17 @@ h1 {
     color: rgb(171, 1, 171)
 }
 
-.main-link a:visited {
-    color: rebeccapurple;
+img {
+    max-height: 300px;
+    width: auto;
+    display: block;
+    margin: auto;
 }
+
+.recipe-body {
+    background-color: rgba(169, 169, 169, 0.2);
+    margin: 3em;
+    padding: 1em;
+}
+
+
