@@ -1,0 +1,46 @@
+h1 {
+    background-color: rgb(40, 40, 40);
+    font-size: 36px;
+    text-align: center;
+    color: lightblue;
+    margin: 0 1em .5em 1em;
+    padding: .25em;
+    font-family: Garamond, sans-serif;
+    cursor: pointer;
+}
+
+.main-header {
+    font-size: 40px;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+.main-link {
+    background-color: rgba(110, 120, 130, 0.1);
+    padding: .1em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.main-link:hover {
+    background-color: rgba(110, 120, 130, 0.2);
+}
+
+.main-link a {
+    text-decoration: none;
+    font-size: 24px;
+    color: rgb(128, 0, 128)
+}
+
+.main-link a:hover {
+    color: rgb(53, 5, 53);
+    cursor: pointer;
+}
+
+.main-link a:active {
+    color: rgb(171, 1, 171)
+}
+
+.main-link a:visited {
+    color: rebeccapurple;
+}
